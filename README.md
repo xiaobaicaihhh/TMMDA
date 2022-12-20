@@ -4,7 +4,7 @@ TMMDA: A Token Mixup Multimodal Data Augmentation Technique for Multimodal Senti
 
 |Model| Train set        | Acc-2         | F1-Score  | MAE  | CC |
 | ------------- |:-------------:|:-------------:| -----:|-----:|-----:|
-|TMMDA| 100%     | 88.88      | 88.88 |0.800 |0.800 |
+|TMMDA| 100%     | 90.41 | 90.38 | 0.593 | 0.870 |
 |TMMDA| 90%      | 88.88      | 88.88 |0.800 |0.800 |
 |TMMDA| 80%      | 88.88      | 88.88 |0.800 |0.800 |
 |TMMDA| 70%      | 88.88      | 88.88 |0.800 |0.800 |
