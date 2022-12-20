@@ -2,7 +2,7 @@
 Paper under review www2023（anonymous）.
 TMMDA: A Token Mixup Multimodal Data Augmentation Technique for Multimodal Sentiment Analysis
 
-|Model| Train set        | Acc-2         | F1-Score  | MAE  | CC |
+|Model| Train set ratio       | Acc-2         | F1-Score  | MAE  | CC |
 | ------------- |:-------------:|:-------------:| -----:|-----:|-----:|
 |TMMDA| 100%     | 90.41 | 90.38 | 0.593 | 0.870 |
 |TMMDA| 90%      | 88.88      | 88.88 |0.800 |0.800 |
