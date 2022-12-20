@@ -1,5 +1,5 @@
 # TMMDA
-Paper under review www2023.
+Paper under review www2023（anonymous）.
 TMMDA: A Token Mixup Multimodal Data Augmentation Technique for Multimodal Sentiment Analysis
 
 |Model| Train set        | Acc-2         | F1-Score  | MAE  | CC |
