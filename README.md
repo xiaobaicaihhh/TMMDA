@@ -11,5 +11,5 @@ TMMDA: A Token Mixup Multimodal Data Augmentation Technique for Multimodal Senti
 |MAG  | 70%      | 87.79      | 87.78 |0.684 |0.842 |
 |MAG  | 50%      | 87.33      | 87.31 |0.686 |0.839 |
 |MuLT | 100%     | 88.55 | 88.52 | 0.654 | 0.856 |
-|MuLT | 70%      | 88.88      | 88.88 |0.800 |0.800 |
+|MuLT | 70%      | 87.34      | 87.32 |0.683 |0.847 |
 |MuLT | 50%      | 87.18      | 87.17 |0.698 |0.843 |
